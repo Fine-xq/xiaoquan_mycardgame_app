@@ -26,13 +26,9 @@
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".activity_card_game"
-            android:exported="false"
-            android:windowSoftInputMode="adjustResize" />
-        <activity
             android:name=".CardGameActivity"
             android:exported="false"
+            android:configChanges="orientation|screenSize"
             android:windowSoftInputMode="adjustResize" />
     </application>
-
 </manifest>
