@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">五、肖权2024110139Mycardgame</string>
+    <string name="app_name">六、肖权2024110139Mycardgame</string>
     <string name="menu_about">关于</string>
     <string name="about_title">关于翻牌游戏</string>
     <string name="about_msg">翻牌匹配游戏\n版本：1.0\n课程Android实验</string>
     <string name="btn_ok">确定</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

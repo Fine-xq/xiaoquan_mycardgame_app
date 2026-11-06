@@ -1,6 +1,7 @@
 package cn.edu.sicnu.cardgame
+import java.io.Serializable
 
-class CardMatchingGame(count: Int) {
+class CardMatchingGame(val count: Int) : Serializable {
     var score = 0
         private set
     private var cardCount = count
